@@ -43,7 +43,7 @@ O modelo lógico final consiste nas seguintes tabelas e seus principais relacion
     * `FK_PRODUTO_ID_PRODUTO` (PK, FK para PRODUTO)
     * `QUANTIDADE`
 
-*(Nota: O diagrama visual completo do modelo lógico pode ser encontrado na imagem `logical_model.png` no diretório `docs/` deste repositório.)*
+TODA A PARTE VISUAL ESTÁ CONTIDA NO ARQUIVO PDF NESTA BRANCH!
 
 ## Tecnologias Utilizadas
 
