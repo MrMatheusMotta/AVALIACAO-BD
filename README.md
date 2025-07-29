@@ -123,4 +123,4 @@ Este trabalho serve como uma base robusta para futuros projetos de banco de dado
 
 ## Autor
 
-* [Seu Nome/Nome do seu Grupo] - [Link para o seu perfil GitHub ou outro contato, se desejar]
+* SGT MOTTA - I CADSPM / 2025 *
